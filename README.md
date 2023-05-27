@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mr-Muhammad-Kashan
-- 👀 I’m interested in coding
+- 👀 I’m interested in Coding, Hacking(Exploitation), Gaming, Hardware,
 - 🌱 I’m currently learning software Engineering
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me ...
